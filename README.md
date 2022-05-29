@@ -1,6 +1,6 @@
 <h1 align="center">Hello there! 👋</h1>
 <h3 align="center">Looking to constantly learn new things!</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/14281687-Work-From-Home">
 
 - 🌱 I’m currently learning **HTML, CSS,C**
 
