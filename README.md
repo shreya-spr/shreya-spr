@@ -25,8 +25,9 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreya-spr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shreya-spr&show_icons=true&theme=radical)
+<br> <br> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreya-spr&layout=compact)](https://github.com/shreya-spr/github-readme-stats)
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreya-spr&" alt="shreya-spr" /></p>
