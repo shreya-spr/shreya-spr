@@ -2,7 +2,7 @@
 <h3 align="center">Looking to constantly learn new things!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
-- 🌱 I’m currently learning **HTML, CSS,C**
+- 🌱 I’m currently learning **Data Science and ML**
 - 😊 Keen on developing my skillset and self learn!  
 
 
